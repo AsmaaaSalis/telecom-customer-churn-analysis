@@ -153,26 +153,29 @@ telecom-churn/
 ```
 
 ## Tools and Technologies
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
-Tableau
-Jupyter Notebook
-Skills Demonstrated
-Data cleaning and preprocessing
-Data wrangling
-Exploratory data analysis
-Feature engineering
-Statistical reasoning
-Classification modeling
-Model evaluation
-Handling class imbalance
-Data visualization
-Business insight generation
-Stakeholder-focused communication
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Tableau
+- Jupyter Notebook
+
+## Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Data wrangling
+- Exploratory data analysis
+- Feature engineering
+- Statistical reasoning
+- Classification modeling
+- Model evaluation
+- Handling class imbalance
+- Data visualization
+- Business insight generation
+- Stakeholder-focused communication
 
 ## Conclusion
 
